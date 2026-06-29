@@ -1,0 +1,6 @@
+.env
+secret_keys.json
+__pycache__/
+*.pyc
+.pio/
+build/
